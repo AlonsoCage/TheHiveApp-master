@@ -40,7 +40,8 @@
         android:text="@string/subtitle"
         android:textColor="@android:color/white"
         android:textSize="13sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:visibility="invisible" />
 
     <LinearLayout
         android:id="@+id/editTextlayout"
