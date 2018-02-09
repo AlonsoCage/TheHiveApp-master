@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheHiveApp</string>
+    <string name="username_Hint">Username</string>
+    <string name="password_Hint">Password</string>
+    <string name="login_button_label">Sign In</string>
+    <string name="sign_up_text">Don\'t have an account? Sign Up!</string>
+    <string name="image_description">imagen de fondo</string>
+    <string name="subtitle">A UEM Project</string>
+    <string name="email_hit">Email</string>
+    <string name="sign_up_button_label">SIGN UP</string>
+    <string name="cancel_button_label">CANCEL</string>
+
+
+</resources>

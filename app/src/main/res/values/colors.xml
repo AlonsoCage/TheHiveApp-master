@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+    <color name="colorPrimary">#FACC2E</color>
+    <color name="colorPrimaryDark">#190b07</color>
+    <color name="colorAccent">#FF8000</color>
+    <color name="light_gray">#bbb</color>
+    <color name="apptheme_color">#F7D358</color>
+    <color name="text_color">#F7D358</color>
+    <color name="buttonBackground">#FFFF00</color>
+    <color name="pressed_purple_button">#FACC2E</color>
+    <color name="focused_purple_button">#FFFF00</color>
+   <color name="btColor">#FFFF00</color>
+
+</resources>
+
